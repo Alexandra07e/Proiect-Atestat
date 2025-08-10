@@ -1,45 +1,40 @@
-Subprograms – Informatics Graduation Project
-📖 Overview
-This project is my Informatics graduation thesis (Atestat), focusing on the concept of subprograms in programming.
-It combines a theoretical presentation of subprograms with the implementation and analysis of a complex problem solved using subprograms.
+# 📚 Subprograms – Informatics Graduation Project  
 
-The goal is to:
+This project is my **Informatics graduation thesis (Atestat)**, focusing on **subprograms** as a fundamental concept in programming. It includes both a **theoretical study** and the implementation of a **complex problem** solved through modular programming techniques.  
 
-Explain the concept, structure, and advantages of using subprograms.
+---
 
-Demonstrate their practical application in solving a challenging programming task.
+## 🧠 Core Topics  
 
-🧠 Theory
-The theoretical section covers:
+- **Definition & Types** – Functions, procedures, recursive subprograms  
+- **Parameter Passing** – By value, by reference  
+- **Variable Scope** – Local vs. global, lifetime of variables  
+- **Advantages** – Modularity, reusability, maintainability  
+- **Best Practices** – Clear naming, documentation, and testing  
 
-Definition of subprograms (functions & procedures).
+---
 
-Classification: parameterless subprograms, subprograms with parameters, recursive subprograms.
+## 🛠 Practical Problem  
 
-Parameter passing methods: by value, by reference.
+- **Language Used** – *C++*  
+- **Complexity** – Decomposed into multiple subprograms for clarity  
+- **Functional Blocks**:  
+  - Input/Output handling  
+  - Data validation  
+  - Core algorithm implementation  
+  - Auxiliary processing functions  
 
-Scope and lifetime of variables.
+---
 
-Advantages: modularity, code reusability, easier debugging, improved readability.
+## 💻 Technologies Used  
 
-Examples in pseudo-code and a chosen programming language.
+- **IDE** – *Code::Blocks*  
 
-💻 Practical Problem
-The practical part presents a complex programming problem that requires:
+---
 
-Dividing the solution into multiple subprograms for clarity and maintainability.
+## 🧪 Testing & Verification  
 
-Combining algorithmic thinking with good programming practices.
-
-Using subprograms for:
-
-Input/output handling.
-
-Data processing.
-
-Specific algorithmic tasks.
-
-Modular decomposition of the solution.
-
-Programming language: (specify here, e.g. C++ / Java / Python)
-IDE used: (e.g. Code::Blocks, Visual Studio Code)
+- Individual testing of each subprogram  
+- Integration testing for the complete workflow  
+- Example inputs and outputs provided in documentation  
+- Code reviewed for readability and performance  
